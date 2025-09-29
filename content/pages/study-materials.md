@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides an extensive list of readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -54,7 +56,7 @@ Kegley, Charles W., Jr., ed. _The Long Postwar Peace: Contending Explanations an
 
 Kagan, Donald. _On the Origins of War and the Preservation of Peace_. New York, NY: Doubleday, 1994.
 
-{{% resource_link "b3a0d417-199c-4d92-8e85-433c034a7b78" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gaddis, John Lewis. "International Relations Theory and the End of the Cold War." In {{% resource_link "b3a0d417-199c-4d92-8e85-433c034a7b78" "_The Cold War and After: Prospects for Peace_" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 323-388. ISBN: 9780262620888.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620888) Gaddis, John Lewis. "International Relations Theory and the End of the Cold War." In [_The Cold War and After: Prospects for Peace_](https://mitpress.mit.edu/9780262620888). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 323-388. ISBN: 9780262620888.
 
 Mueller, John. _Quiet Cataclysm: Reflections on the Recent Transformation of World Politics_. New York, NY: Harper Collins, 1995.
 
@@ -78,7 +80,7 @@ Dougherty, James E., and Robert L. Pfaltzgraff, Jr. _Contending Theories of Inte
 
 Kurtz, Lester, ed. _Encyclopedia of Violence, Peace, and Conflict_. 3 vols. San Diego: Academic Press, 1999. ISBN:9780122270109.
 
-{{% resource_link "b3a0d417-199c-4d92-8e85-433c034a7b78" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gaddis, John Lewis. "The Long Peace: Elements of Stability in the Postwar International System." In {{% resource_link "b3a0d417-199c-4d92-8e85-433c034a7b78" "_The Cold War and After: Prospects for Peace_" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 1-44. ISBN: 9780262620888.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620888) Gaddis, John Lewis. "The Long Peace: Elements of Stability in the Postwar International System." In [_The Cold War and After: Prospects for Peace_](https://mitpress.mit.edu/9780262620888). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 1-44. ISBN: 9780262620888.
 
 ### Military Policy and the Causes of War
 
@@ -302,7 +304,7 @@ Levy, Jack S. "Domestic Politics and War." In _The Origins and Prevention of Maj
 
 Gleditsch, Nils Petter. "Peace and Democracy." In _Encyclopedia of Violence, Peace, and Conflict_. 3 vols. Edited by Lester Kurtz. San Diego, CA: Academic Press, 1999, pp. 2:643-652. ISBN: 0122270126.
 
-{{% resource_link "7a82233e-58c4-4775-9973-f7f2d2bddc95" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, Michael E., Sean M. Lynn-Jones, and Steven E. Miller, eds. {{% resource_link "7a82233e-58c4-4775-9973-f7f2d2bddc95" "_Debating the Democratic Peace: An International Security Reader_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262522137.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522137) Brown, Michael E., Sean M. Lynn-Jones, and Steven E. Miller, eds. [_Debating the Democratic Peace: An International Security Reader_](https://mitpress.mit.edu/9780262522137). Cambridge, MA: MIT Press, 1996. ISBN: 9780262522137.
 
 Ray, James Lee. _Democracy and International Conflict: An Evaluation of the Democratic Peace Proposition_. Columbia, SC: University of South Carolina Press, 1995.
 
@@ -940,7 +942,7 @@ Atkison, Rick. _Crusade_. New York, NY: Random House, 1993.
 
 Benjamin, Daniel, and Steven Simon. _The Age of Sacred Terror_. New York, NY: Random House, 2002.
 
-{{% resource_link "258d73c8-ba51-4977-9ede-7fe00ea78683" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Falkenrath, Richard A., Robert D. Newman, and Bradley A. Thayer. {{% resource_link "258d73c8-ba51-4977-9ede-7fe00ea78683" "_America's Achilles Heel: Nuclear, Biological, and Chemical Terrorism and Covert Attack_" %}}. Cambridge, MA: MIT Press, 1998. ISBN: 9780262561181.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262561181) Falkenrath, Richard A., Robert D. Newman, and Bradley A. Thayer. [_America's Achilles Heel: Nuclear, Biological, and Chemical Terrorism and Covert Attack_](https://mitpress.mit.edu/9780262561181). Cambridge, MA: MIT Press, 1998. ISBN: 9780262561181.
 
 Anonymous. _Through Our Enemies' Eyes: Osama Bin Laden, Radical Islam, and the Future of America_. Washington, DC: Brassey's, 2002.
 

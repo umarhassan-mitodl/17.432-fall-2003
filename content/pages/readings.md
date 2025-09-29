@@ -3,6 +3,8 @@ content_type: page
 description: This section provides a list of recommended texts and the schedule of
   required readings by class session.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -13,7 +15,7 @@ In addition to the Recommended Texts listed below, also see the required [readin
 
 ## Recommended for Purchase
 
-![Buy at MIT Press](/images/mp_logo.gif) Lynn-Jones, Sean M., and Steven E. Miller, eds. {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Cambridge, MA: MIT Press, 1993. ISBN: 9780262620888.
+![Buy at MIT Press](/images/mp_logo.gif) Lynn-Jones, Sean M., and Steven E. Miller, eds. [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Cambridge, MA: MIT Press, 1993. ISBN: 9780262620888.
 
 Axelrod, Robert. *The Evolution of Cooperation*. New York, NY: Basic Books, 1985. ISBN: 9780465021215.
 
@@ -93,7 +95,7 @@ A statement of "offense-defense theory," and three single-case-study tests. Is t
 Jervis, Robert. "Cooperation Under the Security Dilemma." *World Politics* 30, no. 2 (January 1978): 167-214.   
 The first development of offense-defense theory. The theory is now a centerpiece in security studies, the article is a classic. My piece, "Offense, Defense," subsumes most of it but you should pass your eyes across it nevertheless. Please skim pp. 167-185, focus on pp. 186-214.
 
-![Buy at MIT Press](/images/mp_logo.gif) Van Evera, Stephen. "Primed for Peace: Europe After the Cold War." In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 193-203. ISBN: 9780262620888.   
+![Buy at MIT Press](/images/mp_logo.gif) Van Evera, Stephen. "Primed for Peace: Europe After the Cold War." In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 193-203. ISBN: 9780262620888.   
 An application of offense-defense theory.
 
 Blainey, Geoffrey. "Dreams and Delusions of a Coming War." Chapter 3 in *The Causes of War*. 3rd ed. New York, NY: Free Press, 1988. ISBN: 9780029035917.   
@@ -119,7 +121,7 @@ Pages 176-193 are also included in your coursenotes, but you can skim them quick
 Gilpin, Robert. "Equilibrium and Decline," (pp. 156-185) and "Hegemonic Change and War" (pp. 186-210). In *War and Change in World Politics*. Cambridge, MA: Cambridge University Press, 1983. ISBN: 9780521273763.   
 In pages 156-186 Gilpin argues that dominant states are often overtaken by challengers; in pages 186-210 he argues that these power-transitions cause war.
 
-![Buy at MIT Press](/images/mp_logo.gif) Mearsheimer, John. "Back to the Future: Instability in Europe After the Cold War." In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 147-155, 165-167, 176-187. ISBN: 9780262620888.   
+![Buy at MIT Press](/images/mp_logo.gif) Mearsheimer, John. "Back to the Future: Instability in Europe After the Cold War." In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 147-155, 165-167, 176-187. ISBN: 9780262620888.   
 Mearsheimer endorses power-based explanations for war, attacks other explanations. Note: you should skim the rest of the article to get Mearsheimer's whole drift.
 
 Wendt, Alexander. "Anarchy Is What States Make of It: The Social Construction of Power Politics." *International Organization* 46, no. 2 (Spring 1992): 391-425.   
@@ -139,7 +141,7 @@ The existing literature on misperception from the psychology paradigm asks if po
 
 Societal theories of misperception: militarism, nationalism, defects in academe and the press (27 pages):
 
-![Buy at MIT Press](/images/mp_logo.gif) Van Evera, Stephen. "Primed for Peace: Europe After the Cold War." In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 204-211. ISBN: 9780262620888. (On militarism and hyper-nationalism.)
+![Buy at MIT Press](/images/mp_logo.gif) Van Evera, Stephen. "Primed for Peace: Europe After the Cold War." In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 204-211. ISBN: 9780262620888. (On militarism and hyper-nationalism.)
 
 Kristof, Nicholas. "A Tojo Battles History, for Grandpa and for Japan," *New York Times*, April 22, 1999.   
 A recent illustration of self-whitewashing nationalism.
@@ -185,10 +187,10 @@ A good basic summary of feminist arguments on the causes of war, and some striki
 Fukuyama, Francis. "Women and the Evolution of World Politics." *Foreign Affairs* 77, no. 5 (September/October 1998): 24-40.   
 Men are hard-wired to be violent--so let's put them in charge!
 
-![Buy at MIT Press](/images/mp_logo.gif) Mueller, John. "The Essential Irrelevance of Nuclear Weapons: Stability in the Postwar World." In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 45-69. ISBN: 9780262620888.   
+![Buy at MIT Press](/images/mp_logo.gif) Mueller, John. "The Essential Irrelevance of Nuclear Weapons: Stability in the Postwar World." In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 45-69. ISBN: 9780262620888.   
 War has been delegitimated, much as slavery was before it. Even conventional war is now a fading institution.
 
-![Buy at MIT Press](/images/mp_logo.gif) Kaysen, Carl. "Is War Obsolete?" In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 81-103. ISBN: 9780262620888.   
+![Buy at MIT Press](/images/mp_logo.gif) Kaysen, Carl. "Is War Obsolete?" In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 81-103. ISBN: 9780262620888.   
 Mueller is right for the wrong reasons. War is obsolete because it has lost its utility, not because it horrifies anyone.
 
 Levy, Jack S. "The Diversionary Theory of War: A Critique." In *Handbook of War Studies*. Edited by Manus I. Midlarsky. Boston, MA: Unwin Hyman, 1989, pp. 259-288. ISBN: 9780044970552.   
@@ -200,7 +202,7 @@ Do prosperity and interdependence promote peace?
 Choucri, Nazli, and Robert C. North. "Lateral Pressure in International Relations: Concept and Theory." In *Handbook of War Studies*. Edited by Manus I. Midlarsky. Boston, MA: Unwin Hyman, 1989, pp. 289-326. ISBN: 9780044970552.   
 A later restatement of a prominent theory of war. The authors argue that economic development can raise the risk of war.
 
-![Buy at MIT Press](/images/mp_logo.gif) Van Evera, Stephen. "Primed for Peace: Europe After the Cold War." In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 211-218. ISBN: 9780262620888.   
+![Buy at MIT Press](/images/mp_logo.gif) Van Evera, Stephen. "Primed for Peace: Europe After the Cold War." In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993, pp. 211-218. ISBN: 9780262620888.   
 On social stratification, democracy, revolution, and capitalism.
 
 Bellak, Leopold. "Why I Fear the Germans," (op-ed), *New York Times*, April 4, 1990, p. A29; and responses, *New York Times*, May 10, 1990, p. A30.   
@@ -254,7 +256,7 @@ An answer to Kaufmann.
 Walter, Barbara F. "The Critical Barrier to Civil War Settlement." *International Organization* 51, no. 3 (Summer 1997): 335-364.   
 Civil wars are harder to settle than interstate wars, but why? Walter has an answer, and important prescriptions.
 
-![Buy at MIT Press](/images/mp_logo.gif) Brown, Michael E., ed. "Introduction." In {{% resource_link "2250b376-ec5f-4617-a36a-54b8a624ca5d" "*The International Dimensions of Internal Conflict*" %}}. Cambridge, MA: MIT Press, 1996, pp. 1-31. ISBN: 9780262522090.   
+![Buy at MIT Press](/images/mp_logo.gif) Brown, Michael E., ed. "Introduction." In [*The International Dimensions of Internal Conflict*](https://mitpress.mit.edu/9780262522090). Cambridge, MA: MIT Press, 1996, pp. 1-31. ISBN: 9780262522090.   
 A survey of these and other hypotheses on the causes of ethnic conflict.
 
 *The Correlates of War Project: Inferring Theories from large-n Data Sets*
@@ -296,7 +298,7 @@ Should students of war use rational choice methods more often? Two short pieces 
 
 A syllabus on qualitative methods from the Arizona State University Qualitative Methods Institute (January 2002); and syllabi on the case study method by professors Scott Sagan (Stanford), John Mearsheimer (Chicago), Andrew Bennett (Georgetown), John Odell (USC), Matthew Evangelista (Cornell), Ted Hopf (Michigan). In the past many political science departments defined "methodology" to consist solely of large-n (statistical) methods. While statistics was a required course at most schools, case study methodology often wasn't even taught. This is changing, as these syllabi illustrate. I include them for your general perusal and background. No need to give them a talmudic reading--they are for your reference.
 
-Those curious to see more qualitative methods syllabi can find them on the web at {{% resource_link "fba65e51-db4c-49a5-a160-56f80ba298f3" "Syllabi" %}}. And for more on qualitative methods see {{% resource_link "a2bd4c03-85c1-44e3-9404-d3470a3d962a" "Consortium ON Qualitative Research Methods (CQRM)" %}}.
+Those curious to see more qualitative methods syllabi can find them on the web at [Syllabi](http://www.asu.edu/clas/polisci/cqrm/syllabi.html). And for more on qualitative methods see [Consortium ON Qualitative Research Methods (CQRM)](http://www.asu.edu/clas/polisci/cqrm/).
 
 Syllabi on the causes of war for courses taught by Jack Levy (Rutgers), Christopher Gelpi (Harvard), Stephen Walt (Chicago), Hayward Alker (USC), Louise Hodgden (Texas/Austin), and Dale Copeland U. of Virginia). How the subject is taught elsewhere, by a diverse range of scholars. For your reference. (Handy to have for the day when you have to design your own version of this course.)
 
@@ -351,7 +353,7 @@ German elementary and high schools were channels of nationalist propaganda.
 Snyder, Louis L. "Historiography," and "Militarism." Chapters 6 and 10 in *German Nationalism: Tragedy of a People*. Port Washington, NY: Kennikat, 1969. ISBN: 9780804604338.   
 Please read pp. 123-24, mid-139-152, 227-243; you need only skim pp. 124-139, 243-254. German historians were more a problem than a solution; German popular thought was militarized.
 
-For more on World War I origins see the documents collection at {{% resource_link "0b6e0a82-839b-455c-a22e-c8977bcd8b1b" "The World War I Document Archive 1914" %}}. And for more on the role of German public opinion in causing the war see specifically:   
+For more on World War I origins see the documents collection at [The World War I Document Archive 1914](http://www.lib.byu.edu/~rdh/wwi/1914.html). And for more on the role of German public opinion in causing the war see specifically:   
 J. Mommsen, Wolfgang. "Nationalism, Imperialism and Official Press Policy in Wilhelmine Germany 1850-1914." In *Collection de l'Ecole Francaise de Rome, Opinion Publique et Politique Exterieure I 1870-1915*. Milano: Universita de Milano/Ecole Francaise de Rome, 1981, pp. 367-383.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -426,7 +428,7 @@ Kaysen, Carl. "Is War Obsolete?" In *The Cold War and After: Prospects for Peace
 Kaysen says past causes of war are already gone--but if he's right, why does war continue?
 
 ![Buy at MIT Press](/images/mp_logo.gif) Read the rest of:   
-Mearsheimer. "Back to the Future." In {{% resource_link "37f69ac0-89fe-4aae-b74e-5d42b725e32d" "*The Cold War and After: Prospects for Peace*" %}}. Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993. ISBN: 026262088X. (Some of which was assigned above.)
+Mearsheimer. "Back to the Future." In [*The Cold War and After: Prospects for Peace*](https://mitpress.mit.edu/books/cold-war-and-after-expanded-edition). Expanded ed. Edited by Sean M. Lynn-Jones and Steven E. Miller. Cambridge, MA: MIT Press, 1993. ISBN: 026262088X. (Some of which was assigned above.)
 
 Review again:   
 Jervis, Robert. "Theories of War in an Era of Leading-Power Peace." *American Political Science Review* 96, no. 1 (March 2002): 1-14. (Assigned above.)   
